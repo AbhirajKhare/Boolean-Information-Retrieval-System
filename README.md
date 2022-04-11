@@ -1,4 +1,4 @@
-# Boolean-Information-Retrieval-System# Boolean Information Retrieval System
+# Boolean-Information-Retrieval-System
 
 This is a Boolean Query Model for Information Retrieval. 
 The Boolean model of information retrieval(BIR) is a classical information retrieval model and, at the same time, the first and most-adopted one. It is used by many IR systems to this day. The BIR is based on Boolean logic and classical set theory in that both the documents to be searched and the user's query are conceived as sets of terms. Retrieval is based on whether or not the documents contain the query terms. 
